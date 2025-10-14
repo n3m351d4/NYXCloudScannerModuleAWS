@@ -75,18 +75,6 @@ AWS_DEFAULT_REGION=us-east-1
 python nyx_cloud_scanner_aws.py --access-key AKIA... --secret-key ...
 ```
 
-### Использование с файлом конфигурации:
-
-```bash
-python nyx_cloud_scanner_aws.py --config config.env
-```
-
-### Использование с файлом аккаунтов:
-
-```bash
-python nyx_cloud_scanner_aws.py --accounts accounts.json
-```
-
 ### Дополнительные опции:
 
 ```bash
